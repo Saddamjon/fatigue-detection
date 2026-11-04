@@ -12,6 +12,12 @@ from video (Tajik National University).
 
 **Stack:** Python, OpenCV, MediaPipe (Face Landmarker, Hand Landmarker), NumPy, pandas, matplotlib.
 
+![Demo](docs/demo.gif)
+
+*Live webcam demo (2x speed): the level goes from Normal to Early fatigue, then a yawn and
+a 2-second eye closure trigger the alarm and the Dangerous drowsiness level. The interface
+is in Russian.*
+
 ![Session chart](docs/session_plot.png)
 
 *A test session with simulated fatigue: eye openness (EAR) with the personal and fixed
