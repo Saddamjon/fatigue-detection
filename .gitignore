@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv*/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Models (downloaded automatically on first run)
+*.task
+
+# Personal data: recordings, logs, profiles, results
+videos/
+logs/
+profiles/
+results/
+screenshots/
+sessions.csv
